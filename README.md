@@ -126,5 +126,6 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ---
 
+✨ ¡Gracias por visitar mi proyecto! Si te resulta útil, no olvides darle ⭐️ en GitHub.
 
 
