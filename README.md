@@ -118,16 +118,5 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ---
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para mejoras.
-
----
-
-## 📧 Contacto
-
-**Alejandro Javier Contreras Olate**
-- GitHub: [@tu_usuario](https://github.com/tu_usuario)
-- LinkedIn: [Tu perfil](https://linkedin.com/in/tu_perfil)
 
 
