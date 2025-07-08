@@ -1,5 +1,8 @@
 # 📊 Predicción de Cancelación de Clientes (Churn)
 
+## 🧑‍💻 Autor 
+Nombre : Alejandro Javier Contreras Olate
+
 Este proyecto aplica técnicas de ciencia de datos y machine learning para **predecir qué clientes están en riesgo de cancelar un servicio de telecomunicaciones**. 
 Utiliza un enfoque progresivo en tres etapas: análisis exploratorio, modelado inicial y optimización avanzada.
 
@@ -76,9 +79,11 @@ El objetivo es desarrollar un modelo de machine learning capaz de:
 ├── .gitignore                              # Ignora venv y archivos temporales
 └── README.md
 
+---
+
 ## ⚙️ Instalación
 
-Clona este repositorio:
+--Clona este repositorio:
 
 bash
 Copiar
@@ -101,7 +106,9 @@ Editar
 pip install -r requirements.txt
 Ejecuta los notebooks con Jupyter o VS Code.
 
-## 📈 Resultados
+---
+
+##📈 Resultados
 El modelo XGBoost optimizado con SMOTE logró un AUC superior a 0.85, mostrando un excelente poder predictivo.
 
 Se identificaron variables críticas como el tipo de contrato, los cargos mensuales y la antigüedad del cliente.
@@ -119,6 +126,5 @@ Aumentar el ingreso promedio por cliente (ARPU).
 
 Reducir los costos de adquisición de nuevos clientes.
 
-## 🧑‍💻 Autor
 
-Tu Nombre | [LinkedIn](#) | [Portafolio](#)
+
