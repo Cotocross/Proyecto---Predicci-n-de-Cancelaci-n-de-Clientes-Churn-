@@ -18,7 +18,9 @@ El objetivo es desarrollar un modelo de machine learning capaz de:
 
 ## 🚀 Dataset
 
-- [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+ - Fuente: Telco Customer Churn - Kaggle
+ - Archivo original: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+ - Archivo procesado: data/processed/telco_churn_featured.csv
 
 ---
 
@@ -36,13 +38,19 @@ El objetivo es desarrollar un modelo de machine learning capaz de:
 ## 🏗️ Estructura del Proyecto
 
 ```bash
-.
-├── 01_EDA.ipynb                            # Exploración de datos
-├── 02_Modeling.ipynb                       # Modelos base: Logistic Regression, Random Forest
-├── 03_OptimizacionAvanzada_SMOTE_XGBoost.ipynb  # SMOTE + XGBoost + métricas avanzadas
-├── requirements.txt                        # Librerías necesarias
-├── .gitignore                              # Ignora venv y archivos temporales
-└── README.md
+Proyecto-Prediccion-de-Cancelacion-de-Clientes-Churn
+├── data/
+│   ├── processed/
+│   │   └── telco_churn_featured.csv       # Datos procesados
+│   └── raw/
+│       └── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset original
+├── notebooks/
+│   ├── 01_EDA.ipynb                       # Exploración de datos
+│   ├── 02_Modeling.ipynb                  # Modelos base: Logistic Regression, Random Forest
+│   └── 03_OptimizacionAvanzada_SMOTE_XGBoost.ipynb  # SMOTE + XGBoost + métricas avanzadas
+├── .gitignore                            # Ignora venv y archivos temporales
+├── README.md                             # Documentación del proyecto
+└── requirements.txt                      # Librerías necesarias
 ```
 
 ---
