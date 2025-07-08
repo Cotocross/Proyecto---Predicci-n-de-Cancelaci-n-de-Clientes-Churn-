@@ -18,7 +18,7 @@ El objetivo es desarrollar un modelo de machine learning capaz de:
 
 ## 🚀 Dataset
 
- - Fuente: Telco Customer Churn - Kaggle
+ - Fuente: [Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
  - Archivo original: data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
  - Archivo procesado: data/processed/telco_churn_featured.csv
 
