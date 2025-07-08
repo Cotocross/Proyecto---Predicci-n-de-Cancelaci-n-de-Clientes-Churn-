@@ -73,7 +73,7 @@ El objetivo es desarrollar un modelo de machine learning capaz de:
 
 ### 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu_usuario/proyecto-churn.git
+git clone https://github.com/Cotocross/Proyecto-Prediccion-de-Cancelacion-de-Clientes-Churn.git
 cd proyecto-churn
 ```
 
