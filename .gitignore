@@ -1,0 +1,19 @@
+# Ignorar entornos virtuales
+venv/
+ven/
+venv_py310/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Ignorar VSCode settings
+.vscode/
+
+# Ignorar archivos pesados y modelos
+*.pkl
+.DS_Store
